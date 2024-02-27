@@ -1,0 +1,12 @@
+img{
+    object-fit: contain;
+    height: auto;
+    width: 35%;
+}
+
+.header_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
