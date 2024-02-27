@@ -6,7 +6,7 @@
     align-items: center;
     border-bottom: 2px solid red;
     margin: 15px 10px;
-    padding: 5px;
+    padding: 1rem;
 }
 .product_bottom{
     display: flex;
@@ -14,6 +14,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding-bottom: 1.2rem;
 }
 .products{
     object-fit: contain;
@@ -25,6 +26,11 @@
     max-width: 100vw;
     margin: 5px;
 }
-h5.product_headers{
-    font-weight: 500 ;
+.product_headers{
+    font-weight: 500;
+    font-size: 1.1rem;
 }
+.product_bottom h4{
+    margin: 1rem 0;
+}
+

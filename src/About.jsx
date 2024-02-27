@@ -5,10 +5,10 @@ const About = () => {
 		<div className="about_container">
 			<img src="/assets/1.png" alt="trophy" className="trophy" />
 			<div className="about_info">
-				<h5>
+				<h3>
 					C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the
 					4th time.
-				</h5>
+				</h3>
 				<ul>
 					<li>
 						C.R.I.'s energy efficient products are well recognized by various
@@ -22,11 +22,7 @@ const About = () => {
 						with IoT enabled control panel.
 					</li>
 				</ul>
-				<img
-					src="/assets/2.png"
-					alt="reveiving trophy"
-					className="trophy2"
-				/>
+				<img src="/assets/2.png" alt="reveiving trophy" className="trophy2" />
 				<p>
 					Government of India has awarded the{" "}
 					<b>"National Energy Conservation Award 2018"</b>. Mr. G. Selvaraj,

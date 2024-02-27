@@ -9,13 +9,13 @@ img{
     margin: 2rem 1rem;
 }
 .trophy{
-    width: 30%;
+    width:35%;
 }
 .trophy2{
-    width: 75%;
+    width: 97%;
     margin: 15px;
 }
-h5{
+h3{
     margin: 15px;
 }
 .about_info{
@@ -25,4 +25,7 @@ h5{
     align-items: flex-start;
     height: 100%;
     max-width: 70%;
+}
+.about_info ul li, p{
+    font-size: 1.1rem;
 }

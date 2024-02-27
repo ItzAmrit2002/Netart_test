@@ -8,7 +8,7 @@
 }
 .footer_content{
     display: flex;
-    align-items:baseline;
+    align-items:first baseline;
     color: white;
 }
 .icons{
