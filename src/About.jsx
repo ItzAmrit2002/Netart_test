@@ -3,7 +3,7 @@ import "./About.css";
 const About = () => {
 	return (
 		<div className="about_container">
-			<img src="/public/images/1.png" alt="trophy" className="trophy" />
+			<img src="/dist/images/1.png" alt="trophy" className="trophy" />
 			<div className="about_info">
 				<h5>
 					C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the
@@ -23,7 +23,7 @@ const About = () => {
 					</li>
 				</ul>
 				<img
-					src="/public/images/2.png"
+					src="/dist/images/2.png"
 					alt="reveiving trophy"
 					className="trophy2"
 				/>

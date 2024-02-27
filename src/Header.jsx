@@ -3,7 +3,7 @@ import "./Header.css";
 const Header = () => {
 	return (
 		<div className="header_container">
-			<img src="/public/images/logo.png" alt="logo" />
+			<img src="/dist/images/logo.png" alt="logo" />
 		</div>
 	);
 };
