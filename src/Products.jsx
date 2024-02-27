@@ -22,7 +22,7 @@ const Products = () => {
 					RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF
 					POWER FOR THE NATION.
 				</h5>
-				<img src="/src/images/3.png" alt="products" className="products" />
+				<img src="/public/images/3.png" alt="products" className="products" />
 				<h5 className="product_headers">
 					Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables -
 					Solar Systems - Motors
